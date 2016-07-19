@@ -1,5 +1,6 @@
 " pathogen
 execute pathogen#infect()
+execute pathogen#helptags()
 filetype plugin indent on
 
 set nu
