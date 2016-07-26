@@ -1,3 +1,6 @@
 [submodule "bundle/python-mode"]
 	path = bundle/python-mode
 	url = https://github.com/klen/python-mode.git
+[submodule "bundle/vim-skeleton"]
+	path = bundle/vim-skeleton
+	url = https://github.com/noahfrederick/vim-skeleton.git
