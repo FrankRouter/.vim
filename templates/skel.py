@@ -1,4 +1,3 @@
-/usr/bin/nev python
 # -*- coding: UTF-8 -*-
 """
 module docstring
