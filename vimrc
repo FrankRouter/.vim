@@ -19,3 +19,9 @@ let g:pymode_lint_options_pylint = {'import-error': 'disable'}
 
 " NERDTree
 let NERDTreeIgnore=['\.pyc$', '\~$']
+
+" vim-airline
+set laststatus=2
+
+" " tmuxline
+let g:tmuxline_powerline_separators = 0
